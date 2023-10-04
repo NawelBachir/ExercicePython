@@ -1,0 +1,13 @@
+# Découpage d'une chaine de caractere (Slicing)
+college = "College bois-de boulogne"
+print(college[0])
+print(college[8])
+print(college[17])
+print(college[8:12])
+print(college[-1])
+print(college[0:20:2])
+print(len(college))
+print(college[:])
+print(college[::])
+print(college[::-1])
+print(college[::-1])
